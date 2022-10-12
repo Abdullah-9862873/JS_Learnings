@@ -1,1 +1,1 @@
-# Learnings
+# JS_Learnings
